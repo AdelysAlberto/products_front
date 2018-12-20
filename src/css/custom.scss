@@ -1,0 +1,50 @@
+
+.border-bottom {
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+}
+.border-left {
+  border-top: 0;
+  border-bottom: 0;
+  border-right: 0;
+}
+
+.border-right {
+  border-top: 0;
+  border-bottom: 0;
+  border-left: 0;
+}
+
+.border-top {
+  border-bottom: 0;
+  border-left: 0;
+  border-right: 0;
+}
+
+.width-expand {
+  width: 100% !important;
+}
+
+.width-expand-90{
+  width: 90% !important;
+}
+
+.width-80{
+  width: 80% !important;
+}
+
+.width-50 {
+  width: 50% !important;
+}
+
+.width-30 {
+  width: 30% !important;
+}
+.width {
+  min-width: 35px !important;
+}
+
+.width-120 {
+  min-width: 120px !important;
+}
